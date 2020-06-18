@@ -1,0 +1,25 @@
+* bwftag  回文字符串 回溯 字符串分割 状态ok
+bwftip
+bwfask
+*bwftag 网格 动态规划 状态失败
+*bwftag 换页机制 数据结构 状态ok
+*bwftag  一般特性 重复数据 状态ok
+*bwftag   字符串变换
+*bwftag  一般特性 字符串规则 正则表达式 状态未知
+*bwftag  一般特性 连续子串 滑动窗口 状态ok
+*bwftag  数学特性 质数  动态规划 状态未知
+*bwftag  链表反转 状态ok
+bwftag 二叉树 无向图 一般特性 状态未知
+*bwftag  一般特性 数组连续子列 状态ok
+*bwftag  一般特性 字符串转换 状态ok
+*bwftag  日期时间  状态ok
+*bwftag  日志 字符串解析  状态失败
+*bwftag  数组规则 查找数对 状态AC
+*bwftag  计数排序 状态ok
+*bwftag  阈值 数据结构 超半数 状态ok
+*bwftag  字符串解析 版本号 比较大小 状态ok
+*bwftag  数学特性 十进制  最小数字 状态ok
+*bwftag  二进制 穷举 时分 状态ok
+
+
+
